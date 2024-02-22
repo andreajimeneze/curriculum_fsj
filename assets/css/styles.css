@@ -63,12 +63,24 @@ section h2 {
 }
 .rrss img {
   width: 40px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.rrss {
+  display: flex; 
+  flex-direction: column;
+  align-items: center; 
+ 
 }
 
 .rrss a {
   text-decoration: none;
   color: black;
   font-size: 12px;
+  margin-bottom: 10px; 
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .rrss a:hover {
