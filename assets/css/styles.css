@@ -24,7 +24,7 @@ ul {
 
 body {
   display: flex;
-  background-color: rgb(196, 151, 159);
+  background-color: rgb(175, 175, 240);
 }
 
 section h2 {
@@ -33,7 +33,7 @@ section h2 {
   margin: 10px;
   height: 30px;
   border-radius: 25px;
-  color: rgb(136, 59, 72);
+  color: rgb(80, 80, 158);
   text-align: center;
 }
 
@@ -84,7 +84,7 @@ section h2 {
 }
 
 .rrss a:hover {
-  color: rgb(104, 38, 49);
+  color: rgb(80, 80, 158);
   font-weight: bold;
 }
 
@@ -96,7 +96,7 @@ aside {
 }
 
 aside h2 {
-  background-color: rgb(196, 151, 159);
+  background-color: rgb(159, 159, 243);
   color: white;
 }
 
@@ -111,7 +111,7 @@ aside h1 {
   font-size: 50px;
   text-align: center;
   margin: 30px;
-  color: rgb(136, 59, 72);
+  color: rgb(80, 80, 158);
 }
 
 .reconocimientos ul,
